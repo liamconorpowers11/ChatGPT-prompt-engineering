@@ -1,4 +1,6 @@
+Quanitfying and Standardizing Open.AI chatgpt Completion Prompts with dynamic functions
 
+engine = "text-davinci-003"
 
 
 # Installation Steps:
