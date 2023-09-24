@@ -1,4 +1,4 @@
-Quanitfying and Standardizing Open.AI chatgpt Completion Prompts with dynamic functions
+Task: Quanitfying and Standardizing Open.AI chatgpt Completion Prompts with dynamic functions for constant prompt responses.
 
 engine = "text-davinci-003"
 
